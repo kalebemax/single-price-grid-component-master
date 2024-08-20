@@ -17,6 +17,6 @@ This is my solution to the [Single price grid component challenge on Frontend Me
 
 - Semantic HTML5 markup
 - CSS custom properties
-- TailwindCss
+- Tailwindcss
 - Flexbox
 - Mobile-first workflow
